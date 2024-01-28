@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcup_ssg=self.webpackChunkcup_ssg||[]).push([[300],{8184:s=>{s.exports=JSON.parse('{"permalink":"/cup/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

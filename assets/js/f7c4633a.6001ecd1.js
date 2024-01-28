@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcup_ssg=self.webpackChunkcup_ssg||[]).push([[942],{2273:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/cup/blog/tags/facebook","allTagsPath":"/cup/blog/tags","count":1,"unlisted":false}')}}]);

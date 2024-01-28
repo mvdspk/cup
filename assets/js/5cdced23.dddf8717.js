@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcup_ssg=self.webpackChunkcup_ssg||[]).push([[845],{6481:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/cup/blog/tags/hola","allTagsPath":"/cup/blog/tags","count":1,"unlisted":false}')}}]);
