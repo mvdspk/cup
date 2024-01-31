@@ -80,7 +80,7 @@ const config = {
           },
           
 
-           { to: "/resources.md", label: "Resources", position: "left" }
+           { to: "/docs/resources", label: "Resources", position: "left" }
          // { to: "/blog", label: "Blog", position: "left" },
           // {
           //   href: "https://github.com/facebook/docusaurus",
