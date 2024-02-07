@@ -10,7 +10,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 const config = {
   title: "Career UP",
   tagline: "Career UP",
-  favicon: "img/favicon.ico",
+  favicon: "img/superman icon.png",
 
   // Set the production url of your site here
   url: "https://mvdspk.github.io",
@@ -69,17 +69,19 @@ const config = {
         title: "Career UP",
         logo: {
           alt: "CUP",
-          src: "img/logo.svg",
+          src: "img/superman icon.png",
         },
         items: [
-          {
-            type: "docSidebar",
-            sidebarId: "tutorialSidebar",
-            position: "left",
-            label: "Docs",
-          },
-          
+          // {
+          //   type: "docSidebar",
+          //   sidebarId: "tutorialSidebar",
+          //   position: "left",
+          //   label: "Docs",
+          // },
+          { to: "/docs/system design", label: "System Design", position: "left" },
+          { to: "/docs/behavioral", label: "Behavioral", position: "left" },
 
+          { to: "/docs/programming", label: "Programming", position: "left" },
            { to: "/docs/resources", label: "Resources", position: "left" }
          // { to: "/blog", label: "Blog", position: "left" },
           // {

@@ -1,4 +1,4 @@
-# set up
+# Setup
 
 ## install Java
 
